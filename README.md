@@ -38,4 +38,5 @@ Functions I use except Not Working.
 
 ## Not Working
 Camera (I don't know why either.)
+
 HDMI Port (probably because it doesn't exist on the actual Mac using Ice Lake)
