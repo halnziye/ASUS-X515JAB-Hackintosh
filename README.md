@@ -31,6 +31,7 @@
 1. The GPU name is just a simple rename.
 2. The resources folder and serial number do not exist. Please add it yourself.
 3. The boot animation doesn't seem to be output normally.
+4. I replaced the wifi module.
 
 ## Working
 Functions I use except Not Working.
