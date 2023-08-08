@@ -10,7 +10,7 @@
 | Name | Description |
 | - | - |
 | CPU | Intel i7-1065G7 |
-| M/B | - |
+| M/B |  |
 | RAM | Micron DDR4-3200 CL22 12GB |
 | SSD | Western Digital SN530 256GB |
 | GPU | Intel Iris Plus Graphics G7 D4 1.5GB |
