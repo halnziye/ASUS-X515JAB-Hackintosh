@@ -36,6 +36,8 @@ The boot animation doesn't seem to be output normally.
 
 I replaced the wifi module.
 
+After installation, run install.sh and use it.
+
 ## Working
 Functions I use except Not Working.
 
