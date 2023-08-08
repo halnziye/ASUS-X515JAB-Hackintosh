@@ -13,7 +13,7 @@
 | M/B |  |
 | RAM | Micron DDR4-3200 CL22 12GB |
 | SSD | Western Digital SN530 256GB |
-| GPU | Intel Iris Plus Graphics G7 D4 1.5GB |
+| GPU | Intel Iris Plus Graphics G7 D4 15360MB |
 
 ## Applied Version
 | Name | Description |
