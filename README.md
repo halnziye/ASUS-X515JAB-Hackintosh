@@ -36,7 +36,9 @@ The boot animation doesn't seem to be output normally.
 
 I replaced the wifi module.
 
-After installation, run install.sh and use it.
+Please use the method at https://github.com/hackintosh-stuff/ComboJack to activate the audio combo jack.
+
+VerbStub.kext required for activation is already included.
 
 ## Working
 Functions I use except Not Working.
