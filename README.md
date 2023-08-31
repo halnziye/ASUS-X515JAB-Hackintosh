@@ -47,3 +47,5 @@ Functions I use except Not Working.
 Camera (I don't know why either.)
 
 HDMI Port (Probably because it doesn't exist on the actual Mac using Ice Lake.)
+
+It appears that the battery is not optimized.
