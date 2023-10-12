@@ -40,6 +40,8 @@ Please use the method at https://github.com/hackintosh-stuff/ComboJack to activa
 
 VerbStub.kext required for activation is already included.
 
+There seems to be a battery drain phenomenon.
+
 ## Working
 Functions I use except Not Working.
 
